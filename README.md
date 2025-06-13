@@ -6,7 +6,7 @@
 
 ---
 
-**SukiList-App** is an anime-themed movie listing app built with React and Vite. It fetches movie data dynamically and features a custom animated anime-style record player UI.
+**SukiList-App** is an anime-themed movie listing app built with React and Vite. It fetches movie data dynamically and has a favorite feature.
 
 ---
 
